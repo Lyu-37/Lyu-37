@@ -2,45 +2,45 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=8B7FD6&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF+Chenmo-37+%F0%9F%91%8B;Hello!+I'm+Chenmo-37+%F0%9F%91%8B;Bonjour!+Je+suis+Chenmo-37+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=8B7FD6&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF+Chenmo-37;Hello!+I'm+Chenmo-37;Bonjour!+Je+suis+Chenmo-37)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🇨🇳 关于我
+### 中文
 
-- 🔬 目前专注于 **LLM 本地微调**：在消费级硬件上跑 QLoRA，主打 Qwen / Gemma
-- 🛠️ 正在折腾的项目：
+- 目前专注于 **LLM 本地微调**：在消费级硬件上跑 QLoRA，主打 Qwen / Gemma
+- 正在折腾的项目：
   - **OpenClaw** — Discord bot ↔ Ollama 桥接网关，把本地模型接进 Discord
   - **[Yu_An-AI](https://github.com/Lyu-37/Yu_An-AI)** — AI 角色对话原型（React + Vite）
   - **[itx-thermal-sim](https://github.com/Lyu-37/itx-thermal-sim)** — ITX 小机箱散热仿真
-- 💻 主力环境：Windows 11 + PowerShell 7 + Docker
-- 🎯 下一步：攒一台 2× RTX 3090 NVLink + EPYC 的工作站，把 QLoRA 训练搬上去
+- 主力环境：Windows 11 + PowerShell 7 + Docker
+- 下一步：攒一台 2× RTX 3090 NVLink + EPYC 的工作站，把 QLoRA 训练搬上去
 
-### 🇬🇧 About Me
+### English
 
-- 🔬 Currently focused on **local LLM fine-tuning** — QLoRA on consumer hardware, mainly Qwen / Gemma
-- 🛠️ What I'm tinkering with:
+- Currently focused on **local LLM fine-tuning** — QLoRA on consumer hardware, mainly Qwen / Gemma
+- What I'm tinkering with:
   - **OpenClaw** — a Discord bot ↔ Ollama bridge that wires local models into Discord
   - **[Yu_An-AI](https://github.com/Lyu-37/Yu_An-AI)** — character-AI dialogue prototype (React + Vite)
   - **[itx-thermal-sim](https://github.com/Lyu-37/itx-thermal-sim)** — thermal simulation for small-form-factor ITX builds
-- 💻 Daily driver: Windows 11 + PowerShell 7 + Docker
-- 🎯 Next up: building a dual RTX 3090 NVLink + EPYC workstation to host serious QLoRA runs
+- Daily driver: Windows 11 + PowerShell 7 + Docker
+- Next up: building a dual RTX 3090 NVLink + EPYC workstation to host serious QLoRA runs
 
-### 🇫🇷 À propos de moi
+### Français
 
-- 🔬 Actuellement concentré sur le **fine-tuning de LLM en local** — QLoRA sur matériel grand public, surtout Qwen / Gemma
-- 🛠️ Projets en cours :
+- Actuellement concentré sur le **fine-tuning de LLM en local** — QLoRA sur matériel grand public, surtout Qwen / Gemma
+- Projets en cours :
   - **OpenClaw** — passerelle entre un bot Discord et Ollama pour brancher des modèles locaux sur Discord
   - **[Yu_An-AI](https://github.com/Lyu-37/Yu_An-AI)** — prototype de dialogue d'IA de personnage (React + Vite)
   - **[itx-thermal-sim](https://github.com/Lyu-37/itx-thermal-sim)** — simulation thermique pour boîtiers ITX compacts
-- 💻 Environnement principal : Windows 11 + PowerShell 7 + Docker
-- 🎯 Prochaine étape : monter une station EPYC avec deux RTX 3090 en NVLink pour des entraînements QLoRA sérieux
+- Environnement principal : Windows 11 + PowerShell 7 + Docker
+- Prochaine étape : monter une station EPYC avec deux RTX 3090 en NVLink pour des entraînements QLoRA sérieux
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 </div>
 
-### 🖥️ My Rig
+### My Rig
 
 ```text
 CPU    AMD Ryzen      (+ iGPU)
@@ -67,7 +67,7 @@ Shell  PowerShell 7 + oh-my-posh (paradox)
 Next   2× RTX 3090 NVLink · EPYC workstation
 ```
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Next   2× RTX 3090 NVLink · EPYC workstation
 
 </div>
 
-### 📫 Contact · 联系方式 · Me contacter
+### Contact
 
 <div align="center">
 
