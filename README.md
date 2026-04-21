@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Lyu-37&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Chenmo-37&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=8B7FD6&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF+Lyu-37+%F0%9F%91%8B;Hello!+I'm+Lyu-37+%F0%9F%91%8B;Bonjour!+Je+suis+Lyu-37+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=8B7FD6&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF+Chenmo-37+%F0%9F%91%8B;Hello!+I'm+Chenmo-37+%F0%9F%91%8B;Bonjour!+Je+suis+Chenmo-37+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,7 +85,7 @@ Next   2× RTX 3090 NVLink · EPYC workstation
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-lyuzhangkai@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyuzhangkai@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Lyu--37-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyu-37)
+[![GitHub](https://img.shields.io/badge/-Chenmo--37-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyu-37)
 
 </div>
 
