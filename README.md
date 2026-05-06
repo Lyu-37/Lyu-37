@@ -16,7 +16,6 @@
   - **[Yu_An-AI](https://github.com/Lyu-37/Yu_An-AI)** — AI 角色对话原型（React + Vite）
   - **[itx-thermal-sim](https://github.com/Lyu-37/itx-thermal-sim)** — ITX 小机箱散热仿真
 - 主力环境：Windows 11 + PowerShell 7 + Docker
-- 下一步：攒一台 2× RTX 3090 NVLink + EPYC 的工作站，把 QLoRA 训练搬上去
 
 ### English
 
@@ -64,7 +63,6 @@ CPU    AMD Ryzen      (+ iGPU)
 GPU    NVIDIA RTX 5080
 OS     Windows 11 Pro
 Shell  PowerShell 7 + oh-my-posh (paradox)
-Next   2× RTX 3090 NVLink · EPYC workstation
 ```
 
 ### GitHub Stats
